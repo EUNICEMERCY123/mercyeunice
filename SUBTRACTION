@@ -1,4 +1,7 @@
-X=int(input("enter the value of X :")
-Y=int(input("enter the value of Y: ")
+a=int(input("enter the value of X :")
+b=int(input("enter the value of Y: ")
 sub=a-b
 print(sub)
+
+add= a+b
+print(add)
